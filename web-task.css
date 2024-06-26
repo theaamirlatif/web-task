@@ -497,6 +497,12 @@ li:hover ul#submenu {
     width: 45%;
 }
 
+.whysub-child-2-right p{
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Ubuntu';
+}
+
 .whybtn{
     background-color: rgb(52, 26, 163);
     color: white;
@@ -980,6 +986,12 @@ li:hover ul#submenu {
     
     .whysub-child-2-right {
         width: 100%;
+    }
+
+    .whysub-child-2-right p{
+        font-size: 18px;
+        font-weight: 300;
+        font-family: 'Ubuntu';
     }
     
     .whybtn{
